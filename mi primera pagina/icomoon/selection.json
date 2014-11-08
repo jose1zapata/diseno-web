@@ -1,0 +1,150 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M384 640l128-64 448-448-64-64-448 448-64 128zM289.3 867.098c-31.632-66.728-65.666-100.762-132.396-132.394l99.096-272.792 128-77.912 384-384h-192l-384 384-192 640 640-192 384-384v-192l-384 384-77.912 128z"
+				],
+				"attrs": [
+					{
+						"opacity": 1,
+						"visibility": false
+					}
+				],
+				"grid": 16
+			},
+			"attrs": [
+				{
+					"opacity": 1,
+					"visibility": false
+				}
+			],
+			"properties": {
+				"order": 1,
+				"id": 3,
+				"prevSize": 32,
+				"code": 58883,
+				"name": "lapiz"
+			},
+			"setIdx": 0,
+			"iconIdx": 0
+		},
+		{
+			"icon": {
+				"paths": [
+					"M1024 397.050l-353.78-51.408-158.22-320.582-158.216 320.582-353.784 51.408 256 249.538-60.432 352.352 316.432-166.358 316.432 166.358-60.434-352.352 256.002-249.538z"
+				],
+				"attrs": [
+					{
+						"opacity": 1,
+						"visibility": false
+					}
+				],
+				"grid": 16
+			},
+			"attrs": [
+				{
+					"opacity": 1,
+					"visibility": false
+				}
+			],
+			"properties": {
+				"order": 1,
+				"id": 2,
+				"prevSize": 32,
+				"code": 58880,
+				"name": "estrella"
+			},
+			"setIdx": 0,
+			"iconIdx": 1
+		},
+		{
+			"icon": {
+				"paths": [
+					"M96 448c-73 0-32-192 32-192-32 0 0-160 64-160 0-64 64-96 128-96 270.352 0 175.264 67.65 448 96v512c-240.922 72.268-480 253.424-480 416-53 0-192-64 0-384 0 0-160 0-192 0-96 0-64-192 0-192zM832 608v-512h-64v-32h128c35.2 0 64 43.2 64 96v384c0 52.8-28.8 96-64 96h-128v-32h64z"
+				],
+				"attrs": [
+					{
+						"opacity": 1,
+						"visibility": false
+					}
+				],
+				"grid": 16
+			},
+			"attrs": [
+				{
+					"opacity": 1,
+					"visibility": false
+				}
+			],
+			"properties": {
+				"order": 2,
+				"id": 1,
+				"prevSize": 32,
+				"code": 58881,
+				"name": "nolike"
+			},
+			"setIdx": 0,
+			"iconIdx": 2
+		},
+		{
+			"icon": {
+				"paths": [
+					"M928 576c73 0 32 192-32 192 32 0 0 160-64 160 0 64-64 96-128 96-270.352 0-175.264-67.65-448-96v-512c240.922-72.268 480-253.424 480-416 53 0 192 64 0 384 0 0 160 0 192 0 96 0 64 192 0 192zM192 416v512h64v32h-128c-35.2 0-64-43.2-64-96v-384c0-52.8 28.8-96 64-96h128v32h-64z"
+				],
+				"attrs": [
+					{
+						"opacity": 1,
+						"visibility": false
+					}
+				],
+				"grid": 16
+			},
+			"attrs": [
+				{
+					"opacity": 1,
+					"visibility": false
+				}
+			],
+			"properties": {
+				"order": 3,
+				"id": 0,
+				"prevSize": 32,
+				"code": 58882,
+				"name": "like"
+			},
+			"setIdx": 0,
+			"iconIdx": 3
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "icomoon"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "icomoon"
+			},
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			}
+		},
+		"imagePref": {
+			"prefix": "icon-",
+			"png": true,
+			"useClassSelector": true
+		},
+		"historySize": 100,
+		"showCodes": true,
+		"search": ""
+	}
+}
